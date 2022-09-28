@@ -1,0 +1,15 @@
+/Users/nargizibragimova/Desktop/Новая папка/Task/bin/Debug/net6.0/Task
+/Users/nargizibragimova/Desktop/Новая папка/Task/bin/Debug/net6.0/Task.deps.json
+/Users/nargizibragimova/Desktop/Новая папка/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/nargizibragimova/Desktop/Новая папка/Task/bin/Debug/net6.0/Task.dll
+/Users/nargizibragimova/Desktop/Новая папка/Task/bin/Debug/net6.0/Task.pdb
+/Users/nargizibragimova/Desktop/Новая папка/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/nargizibragimova/Desktop/Новая папка/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nargizibragimova/Desktop/Новая папка/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/nargizibragimova/Desktop/Новая папка/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/nargizibragimova/Desktop/Новая папка/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/nargizibragimova/Desktop/Новая папка/Task/obj/Debug/net6.0/Task.dll
+/Users/nargizibragimova/Desktop/Новая папка/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/nargizibragimova/Desktop/Новая папка/Task/obj/Debug/net6.0/Task.pdb
+/Users/nargizibragimova/Desktop/Новая папка/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/nargizibragimova/Desktop/Новая папка/Task/obj/Debug/net6.0/ref/Task.dll
